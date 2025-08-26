@@ -22,8 +22,6 @@ This chatbot leverages **Google Drive**, **Pinecone**, **OpenAI**, and **Telegra
 
 ## ⚙️ Architecture Flow
 
-### 🔹 Workflow Diagram (Mermaid)
-```mermaid
 flowchart TD
     A[📂 Google Drive API] -->|Fetch Profiles| B[n8n Workflow]
     B -->|Convert to Embeddings| C[🔎 OpenAI Embeddings]
