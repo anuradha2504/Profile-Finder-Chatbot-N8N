@@ -1,4 +1,4 @@
-# Profile Search Chatbot - README
+# Profile Finder Chatbot - README
 
 ## Introduction
 This chatbot is designed to search and retrieve candidate profiles from Google Drive based on the required skills.  
