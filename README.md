@@ -45,7 +45,7 @@ flowchart TD
 
 ### 1) Clone Repository
 ```bash
-git clone https://github.com/your-repo/profile-finder-chatbot.git
+git clone https://github.com/anuradha2504/Profile-Finder-Chatbot-N8N/edit/main
 cd profile-finder-chatbot
 ```
 
@@ -76,15 +76,12 @@ n8n start
 ```
 
 ## 📌 Example Usage
-- **User (Telegram):** “Find profiles with Python and SQL skills”  
-- **Bot:** The following profiles match your query:  
-1. *Anuradha Kumari* — Data Engineer (Python, SQL, Informatica)  
-2. *Rohit Sharma* — Backend Developer (Python, Flask, SQL)  
+- **User (Telegram):** “which candidate has SQL knowledge?”  
+- **Bot:** The candidate with SQL knowledge is Gajanan Sathe  
 
-- **User (Telegram):** “Show me profiles with cloud and data engineering experience”  
-- **Bot:** The following profiles match your query:  
-1. *Seema Vishwas* — Cloud Data Engineer (AWS, Snowflake, Python)  
-2. *Tusar Kumar* — Senior Data Engineer (Azure, Databricks, SQL)  
+- **User (Telegram):** “Do we have any profile with Python?
+”  
+- **Bot:** Sorry! I can't find relevant information about any profile with Python knowledge from the knowledge base.
 
 ## 🛠️ Troubleshooting
 - **Profiles not retrieved:** Check Google Drive API connection.  
@@ -95,4 +92,4 @@ n8n start
 ---
 
 # 👨‍💻 Author
-Built by **Your Name** using automation, AI, and profile search integrations.
+Built by **Anuradha Kumari** using automation, AI, and profile search integrations.
